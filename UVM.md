@@ -43,7 +43,7 @@
 ## []
 ```
 
-![image](mdimage/SV&UVM基础_UVM框架.jpg)
+![image](/md_image/SV&UVM基础_UVM框架.jpg)
 
 ![image](md_image/SV&UVM基础_UVM文件框架.jpg)
 
